@@ -8,7 +8,6 @@
 
 target/
 build/
-.mvn/
 
 .idea/
 *.iml
